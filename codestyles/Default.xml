@@ -1,1 +1,8 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="SPACE_AFTER_COMMA" value="false" />
+  </codeStyleSettings>
+</code_scheme>
