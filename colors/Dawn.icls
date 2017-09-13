@@ -4,11 +4,13 @@
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="e3f8eb" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f9f9f9" />
     <option name="GUTTER_BACKGROUND" value="f9f9f9" />
     <option name="INDENT_GUIDE" value="dedede" />
     <option name="LINE_NUMBERS_COLOR" value="80808" />
+    <option name="MODIFIED_LINES_COLOR" value="ebf0f8" />
     <option name="SELECTED_INDENT_GUIDE" value="dedede" />
     <option name="SELECTION_BACKGROUND" value="dedede" />
     <option name="SELECTION_FOREGROUND" value="" />
