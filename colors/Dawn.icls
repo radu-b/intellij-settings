@@ -13,6 +13,7 @@
     <option name="SELECTION_BACKGROUND" value="dedede" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="WHITESPACES" value="a2a2bb" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
   <attributes>
     <option name="BREAKPOINT_ATTRIBUTES">
