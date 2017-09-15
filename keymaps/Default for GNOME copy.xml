@@ -3,6 +3,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="BaseOnThisFunction" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="FileChooser.TogglePathShowing" />
@@ -17,4 +18,11 @@
   <action id="NextTab" />
   <action id="ParameterInfo" />
   <action id="PreviousTab" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy.BaseOnThisType" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>
