@@ -1,5 +1,6 @@
 <code_scheme name="Default">
   <TypeScriptCodeStyleSettings>
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
   </TypeScriptCodeStyleSettings>
 </code_scheme>
