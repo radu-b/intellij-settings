@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="react-plain" value="import * as React from 'react';&#10;&#10;class $class$ extends React.Component&lt;{}, {}&gt; {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;&#10;      &lt;/div&gt;&#10;    );&#10;  }&#10;}" toReformat="true" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="fileNameWithoutExtension" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="index-export" value="import $class$ from './$class$';&#10;&#10;export default $class$;" toReformat="true" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
