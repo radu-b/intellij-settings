@@ -11,4 +11,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="divs" value="&lt;div className={styles.$Style$}&gt;$END$&lt;/div&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="Style" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
