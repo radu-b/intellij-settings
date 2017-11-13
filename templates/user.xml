@@ -18,4 +18,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="rcredux" value="import * as React from 'react';&#10;import { connect } from 'react-redux';&#10;import { returntypeof } from 'Utils/type';&#10;&#10;class $class$ extends React.Component&lt;Props, {}&gt; {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;&#10;      &lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;const mapStateToProps = rootState =&gt; {&#10;  return {};&#10;};&#10;&#10;const mapDispatchToProps = {};&#10;&#10;const stateProps = returntypeof(mapStateToProps);&#10;type Props = typeof stateProps &amp; typeof mapDispatchToProps;&#10;&#10;export default connect(mapStateToProps, mapDispatchToProps)($class$);" toReformat="true" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="fileNameWithoutExtension" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
