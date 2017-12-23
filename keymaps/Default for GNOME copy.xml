@@ -40,7 +40,14 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
-  <action id="StepOver" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleBookmark" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
