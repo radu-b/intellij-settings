@@ -68,5 +68,12 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="R Skeletons">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.3/system/r_skeletons/725233088" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
