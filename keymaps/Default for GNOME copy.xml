@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="BaseOnThisFunction" />
+  <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -14,6 +15,11 @@
   <action id="Debugger.EditCustomField" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
@@ -51,6 +57,7 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
 </keymap>
