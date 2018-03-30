@@ -1,15 +1,22 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-03-21T17:09:40</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2018-03-21T17:37:09</property>
+    <property name="modified">2018-03-30T15:19:49</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
     <option name="DOCUMENTATION_COLOR" value="ffffff" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
+    <option name="VISUAL_INDENT_GUIDE" value="" />
   </colors>
   <attributes>
     <option name="DEFAULT_ATTRIBUTE">
