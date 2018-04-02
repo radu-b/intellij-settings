@@ -1,6 +1,13 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ActivateDocumentationToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateSciViewToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
@@ -23,9 +30,6 @@
   <action id="GotoNextError" />
   <action id="NextTab" />
   <action id="PreviousTab" />
-  <action id="PySciView">
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
