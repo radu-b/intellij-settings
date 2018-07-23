@@ -19,10 +19,6 @@
   <action id="Debugger.EditCustomField" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
-  <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
-    <keyboard-shortcut first-keystroke="alt enter" />
-  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -58,7 +54,6 @@
   <action id="ShowExecutionPoint">
     <keyboard-shortcut first-keystroke="alt multiply" />
   </action>
-  <action id="ShowIntentionActions" />
   <action id="Uml.NodeIntentions" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
