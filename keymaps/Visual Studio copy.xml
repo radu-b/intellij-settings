@@ -15,6 +15,10 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="Diff.NextChange" />
@@ -27,6 +31,12 @@
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine" />
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -38,7 +48,11 @@
   <action id="GotoNextError" />
   <action id="InsertLiveTemplate" />
   <action id="NextTab" />
+  <action id="OpenElementInNewWindow" />
   <action id="PreviousTab" />
+  <action id="PyExecuteCellAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
