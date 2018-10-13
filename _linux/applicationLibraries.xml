@@ -1,39 +1,9 @@
 <application>
   <component name="libraryTable">
     <library name="Python 3.6 (fastai-fa2feKY3) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-743776551" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-743776551" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="Python 3.6 (ml) interpreter library">
       <CLASSES>
@@ -87,76 +57,6 @@
         <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1745498816" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (radu) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-743776551" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/fastai-fa2feKY3/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-743776551" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (toptal-finger-c26m5ExY) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.virtualenvs/toptal-finger-c26m5ExY/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/toptal-finger-c26m5ExY/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/toptal-finger-c26m5ExY/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-21620035" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.virtualenvs/toptal-finger-c26m5ExY/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/toptal-finger-c26m5ExY/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/toptal-finger-c26m5ExY/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-21620035" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
