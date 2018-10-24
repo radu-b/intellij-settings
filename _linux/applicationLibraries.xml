@@ -34,13 +34,14 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.6 (ml-w1wSrghE) interpreter library">
+    <library name="Python 3.6 interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.virtualenvs/ml-w1wSrghE/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/ml-w1wSrghE/lib/python3.6/lib-dynload" />
         <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/ml-w1wSrghE/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1745498816" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" />
+        <root url="file:///usr/local/lib/python3.6/dist-packages" />
+        <root url="file:///usr/lib/python3/dist-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1247971763" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -50,40 +51,12 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.virtualenvs/ml-w1wSrghE/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/ml-w1wSrghE/lib/python3.6/lib-dynload" />
         <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/ml-w1wSrghE/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1745498816" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 (pyt-d_2Tb6in) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.virtualenvs/pyt-d_2Tb6in/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/pyt-d_2Tb6in/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/pyt-d_2Tb6in/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1388956034" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.virtualenvs/pyt-d_2Tb6in/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/pyt-d_2Tb6in/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file://$USER_HOME$/.virtualenvs/pyt-d_2Tb6in/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1388956034" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" />
+        <root url="file:///usr/local/lib/python3.6/dist-packages" />
+        <root url="file:///usr/lib/python3/dist-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-1247971763" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
