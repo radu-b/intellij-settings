@@ -47,6 +47,12 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="shift f2" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -72,6 +78,9 @@
   </action>
   <action id="ShowExecutionPoint">
     <keyboard-shortcut first-keystroke="alt multiply" />
+  </action>
+  <action id="Tool_External Tools_Make Report">
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="Uml.NodeIntentions" />
   <action id="XDebugger.EditWatch" />
